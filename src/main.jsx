@@ -12,6 +12,7 @@ import Colleges from "./components/Colleges/Colleges.jsx";
 import AuthProvider from "./components/AuthProvider/AuthProvider.jsx";
 import CollegeDetails from "./components/CollegeDetails/CollegeDetails.jsx";
 import PrivateRoute from "./components/PrivateRoute/PrivateRoute.jsx";
+import CollageCard from "./components/HomePages/CollageCard.jsx";
 import Admission from "./components/Admission/Admission.jsx";
 import MyCollage from "./components/MyCollage/MyCollage.jsx";
 
@@ -24,20 +25,17 @@ const router = createBrowserRouter([
       {
         path: "/home",
         element: <Home></Home>,
-        loader: () =>
-          fetch(`https://college-hunt-server.vercel.app/allcollages`),
+        loader: () => fetch(`http://localhost:5000/allcollages`),
       },
       {
         path: "/",
         element: <Home></Home>,
-        loader: () =>
-          fetch(`https://college-hunt-server.vercel.app/allcollages`),
+        loader: () => fetch(`http://localhost:5000/allcollages`),
       },
       {
         path: "/colleges",
         element: <Colleges></Colleges>,
-        loader: () =>
-          fetch(`https://college-hunt-server.vercel.app/allcollages`),
+        loader: () => fetch(`http://localhost:5000/allcollages`),
       },
       {
         path: "/admission",
@@ -45,9 +43,12 @@ const router = createBrowserRouter([
       },
       {
         path: "/mycollage",
-        element: <MyCollage></MyCollage>,
-        loader: () =>
-          fetch(`https://college-hunt-server.vercel.app/admissiondata`),
+        element: (
+          <PrivateRoute>
+            <MyCollage></MyCollage>
+          </PrivateRoute>
+        ),
+        loader: () => fetch(`http://localhost:5000/admissiondata`),
       },
       {
         path: "/register",
@@ -61,14 +62,11 @@ const router = createBrowserRouter([
         path: "/allcollages/:id",
         element: (
           <PrivateRoute>
-            {" "}
             <CollegeDetails></CollegeDetails>
           </PrivateRoute>
         ),
         loader: ({ params }) =>
-          fetch(
-            `https://college-hunt-server.vercel.app/allcollages/${params.id}`
-          ),
+          fetch(`http://localhost:5000/allcollages/${params.id}`),
       },
     ],
   },

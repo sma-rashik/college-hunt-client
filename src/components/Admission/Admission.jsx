@@ -22,7 +22,7 @@ const handleAddToy = (event) => {
   };
   console.log(admission);
 
-  fetch("https://college-hunt-server.vercel.app/admissiondata", {
+  fetch("http://localhost:5000/admissiondata", {
     method: "POST",
     headers: {
       "content-type": "application/json",
