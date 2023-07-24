@@ -1,0 +1,358 @@
+[
+
+  {
+    "id": 1,
+    "college_image": "https://i.ibb.co/mqTRGpX/Rajuk-Uttara-Model-College-Pic-1024x469.jpg",
+    "college_name": "Rajuk Uttara Model College",
+    "admission_dates": "August 1 - August 15",
+    "admission_process": "Prospective students can apply online through the university website or submit the application form in person at the admissions office. The university considers academic performance, extracurricular activities, and personal achievements during the selection process.",
+    "events": [
+      {
+        "event_name": "Orientation Day",
+        "event_date": "August 5",
+        "event_description": "Orientation Day is an introductory session for new students to familiarize them with the campus, facilities, and university life."
+          },
+          {
+            "event_name": "Career Fair",
+            "event_date": "August 10",
+            "event_description": "The Career Fair provides an opportunity for students to interact with potential employers and explore job opportunities."
+          },
+          {
+            "event_name": "Alumni Homecoming",
+            "event_date": "August 12",
+            "event_description": "Alumni Homecoming is an annual event where former students come back to campus to reconnect with their alma mater."
+          }
+        ],
+        "research_history": "Founded in 19XX, Sample University 1 has a rich history of groundbreaking research in various fields. The university has conducted significant research projects in areas such as biology, engineering, and social sciences.",
+        "research_works": [
+          {
+            "research_title": "Advancements in Renewable Energy",
+            "research_description": "This research work focuses on the development of efficient and sustainable renewable energy sources to combat climate change.",
+            "research_paper_link": "https://www.exampleuniversity1.edu/research_paper1"
+          },
+          {
+            "research_title": "Exploring Artificial Intelligence Applications",
+            "research_description": "This study explores the diverse applications of artificial intelligence in industries like healthcare, finance, and transportation.",
+            "research_paper_link": "https://www.exampleuniversity1.edu/research_paper2"
+          }
+        ],
+        "sports_categories": [
+          "Basketball",
+          "Football",
+          "Volleyball"
+        ]
+      },
+      {
+        "id": 2,
+        "college_image": "https://i.ibb.co/nPqKwwK/Cantonment-Public-School-and-College-Rangpur-Pic-1024x469.jpg",
+        "college_name": "Cantonment Public School and College Rangpur",
+        "admission_dates": "September 1 - September 30",
+        "admission_process": "Applicants can apply through the college's official website or submit the application form to the admissions office. Admission criteria include academic records, entrance exam scores, and interviews.",
+        "events": [
+          {
+            "event_name": "New Student Welcome",
+            "event_date": "September 5",
+            "event_description": "New Student Welcome is a special event to introduce incoming students to the college community and resources."
+          },
+          {
+            "event_name": "Academic Symposium",
+            "event_date": "September 20",
+            "event_description": "The Academic Symposium showcases research and academic projects undertaken by students and faculty members."
+          }
+        ],
+        "research_history": "Sample College 2 has been at the forefront of cutting-edge research for the past decade. The college has a reputation for innovation and collaboration in various disciplines.",
+        "research_works": [
+          {
+            "research_title": "Environmental Sustainability Initiatives",
+            "research_description": "This research focuses on various sustainability projects, including waste management and renewable energy implementation.",
+            "research_paper_link": "https://www.samplecollege2.edu/research_paper3"
+          },
+          {
+            "research_title": "Innovations in Biotechnology",
+            "research_description": "This study explores the latest developments in biotechnology and its potential applications in medicine and agriculture.",
+            "research_paper_link": "https://www.samplecollege2.edu/research_paper4"
+          }
+        ],
+        "sports_categories": [
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ]
+      },
+      {
+        "id": 3,
+        "college_image": "https://i.ibb.co/TTvBCwg/Abdul-Kadir-Mollah-City-College-Pic-1024x469.jpg",
+        "college_name": "Abdul Kadir Mollah City College",
+        "admission_dates": "July 15 - August 31",
+        "admission_process": "Prospective students must complete an online application and may be required to take an admission test or submit a portfolio, depending on the chosen program. The selection process considers academic merit and potential.",
+        "events": [
+          {
+            "event_name": "Tech Expo",
+            "event_date": "August 10",
+            "event_description": "The Tech Expo showcases innovative projects, prototypes, and technologies developed by students and faculty."
+          },
+          {
+            "event_name": "Hackathon",
+            "event_date": "August 20-22",
+            "event_description": "The Hackathon is a coding and problem-solving competition that encourages participants to create solutions for real-world challenges."
+          },
+          {
+            "event_name": "Graduation Ceremony",
+            "event_date": "August 31",
+            "event_description": "The Graduation Ceremony celebrates the academic achievements of graduating students and marks the beginning of their professional journey."
+          }
+        ],
+        "research_history": "Example Institute of Technology is known for its pioneering research in technology and engineering. The institute has been involved in groundbreaking projects and collaborative initiatives with leading industries.",
+        "research_works": [
+          {
+            "research_title": "Advances in Artificial Intelligence and Robotics",
+            "research_description": "This research delves into the latest advancements in AI and robotics, including human-robot interaction and machine learning.",
+            "research_paper_link": "https://www.exampletechinstitute.edu/research_paper5"
+          },
+          {
+            "research_title": "Sustainable Urban Planning and Smart Cities",
+            "research_description": "This study explores sustainable urban development strategies, incorporating smart technologies and energy-efficient solutions.",
+            "research_paper_link": "https://www.exampletechinstitute.edu/research_paper6"
+          }
+        ],
+        "sports_categories": [
+          "Cricket",
+          "Badminton",
+          "Table Tennis"
+        ]
+      },
+      {
+        "id": 4,
+        "college_image": "https://i.ibb.co/25ygbq6/Rajshahi-College-Pic-1024x469.jpg",
+        "college_name": "Rajshahi College",
+        "admission_dates": "October 1 - October 20",
+        "admission_process": "Applicants need to submit their academic transcripts, letters of recommendation, and a statement of purpose. Some programs may require a written entrance test or an interview.",
+        "events": [
+          {
+            "event_name": "Science Fair",
+            "event_date": "October 5",
+            "event_description": "The Science Fair showcases scientific experiments, research projects, and demonstrations by students and faculty members."
+          },
+          {
+            "event_name": "Guest Lecture Series",
+            "event_date": "October 15",
+            "event_description": "The Guest Lecture Series invites renowned scientists and experts to share their knowledge and insights with the university community."
+          }
+        ],
+        "research_history": "University of Science has a long-standing tradition of promoting scientific research and innovation. The university has contributed to breakthrough discoveries in various scientific fields.",
+        "research_works": [
+          {
+            "research_title": "Exploring Nanotechnology Applications",
+            "research_description": "This research delves into the applications of nanotechnology, including nanomedicine and nanoelectronics.",
+            "research_paper_link": "https://www.universityofscience.edu/research_paper7"
+          },
+          {
+            "research_title": "Biodiversity Conservation and Ecological Studies",
+            "research_description": "This study focuses on preserving biodiversity, analyzing ecosystems, and understanding the impact of human activities on the environment.",
+            "research_paper_link": "https://www.universityofscience.edu/research_paper8"
+          }
+        ],
+        "sports_categories": [
+          "Track and Field",
+          "Baseball",
+          "Rugby"
+        ]
+      },
+      {
+        "id": 5,
+        "college_image": "https://i.ibb.co/Fzd3L68/Adamjee-Cantonment-College-Pic-1024x469.jpg",
+        "college_name": "Adamjee Cantonment College",
+        "admission_dates": "June 15 - July 31",
+        "admission_process": "Prospective students must submit a portfolio showcasing their artistic works and may be required to attend an audition or interview. The selection is based on talent and potential.",
+        "events": [
+          {
+            "event_name": "Art Exhibition",
+            "event_date": "July 10",
+            "event_description": "The Art Exhibition features artworks created by students, faculty, and visiting artists, showcasing various art forms."
+          },
+          {
+            "event_name": "Drama Festival",
+            "event_date": "July 25",
+            "event_description": "The Drama Festival presents theatrical performances by students, ranging from classic plays to contemporary productions."
+          },
+          {
+            "event_name": "Music Concert",
+            "event_date": "July 30",
+            "event_description": "The Music Concert showcases musical talents from the institute, including solo performances and ensemble pieces."
+          }
+        ],
+        "research_history": "The Artistic Institute is renowned for nurturing creativity and artistic expression. It fosters a vibrant community of artists and encourages experimentation across various art disciplines.",
+        "research_works": [
+          {
+            "research_title": "Evolution of Modern Art Movements",
+            "research_description": "This research traces the development and influence of various modern art movements, from impressionism to abstract expressionism.",
+            "research_paper_link": "https://www.artisticinstitute.edu/research_paper9"
+          },
+          {
+            "research_title": "Exploring Cross-Cultural Influences in Music",
+            "research_description": "This study examines how music transcends cultural boundaries and serves as a medium for global connections.",
+            "research_paper_link": "https://www.artisticinstitute.edu/research_paper10"
+          }
+        ],
+        "sports_categories": [
+          "Paintball",
+          "Golf",
+          "Horse Riding"
+        ]
+      },
+      {
+        "id": 6,
+        "college_image": "https://i.ibb.co/P90Mt5m/National-Ideal-College-Pic-1024x469.jpg",
+        "college_name": "National Ideal College",
+        "admission_dates": "April 1 - April 30",
+        "admission_process": "Applicants must fill out an online application and may need to take a business aptitude test or participate in group discussions and interviews. Admission criteria include academic performance and communication skills.",
+        "events": [
+          {
+            "event_name": "Business Summit",
+            "event_date": "April 15",
+            "event_description": "The Business Summit brings together industry leaders, entrepreneurs, and students to discuss the latest trends and challenges in business."
+          },
+          {
+            "event_name": "Economics Conference",
+            "event_date": "April 25",
+            "event_description": "The Economics Conference covers a wide range of economic topics, including macroeconomics, finance, and trade policies."
+          }
+        ],
+        "research_history": "Commerce College is a hub for research in economics, finance, and business management. It emphasizes practical knowledge and prepares students for careers in the corporate world.",
+        "research_works": [
+          {
+            "research_title": "E-commerce and Consumer Behavior",
+            "research_description": "This research examines consumer behavior in the context of online shopping and its implications for e-commerce businesses.",
+            "research_paper_link": "https://www.commercecollege.edu/research_paper11"
+          },
+          {
+            "research_title": "Financial Strategies for Small Enterprises",
+            "research_description": "This study analyzes effective financial management practices for small and medium-sized enterprises to foster sustainable growth.",
+            "research_paper_link": "https://www.commercecollege.edu/research_paper12"
+          }
+        ],
+        "sports_categories": [
+          "Chess",
+          "Basketball",
+          "Badminton"
+        ]
+      },
+      {
+        "id": 7,
+        "college_image": "https://i.ibb.co/TWqkhys/Viqarunnisa-Noon-School-and-College-Pic-1024x469.jpg",
+        "college_name": "Viqarunnisa Noon School and College",
+        "admission_dates": "January 15 - February 28",
+        "admission_process": "Prospective medical students must clear a medical entrance exam and undergo interviews to secure admission. The university considers academic records and relevant experience in healthcare.",
+        "events": [
+          {
+            "event_name": "Medical Symposium",
+            "event_date": "February 10",
+            "event_description": "The Medical Symposium features presentations and workshops on medical research, clinical studies, and advancements in healthcare."
+          },
+          {
+            "event_name": "Health Camp",
+            "event_date": "February 20-22",
+            "event_description": "The Health Camp provides free medical services to the community and offers health awareness programs."
+          },
+          {
+            "event_name": "Graduation Ceremony",
+            "event_date": "February 28",
+            "event_description": "The Graduation Ceremony celebrates the accomplishments of medical graduates and welcomes them to the medical profession."
+          }
+        ],
+        "research_history": "Medical University has made significant contributions to medical research and healthcare advancements. The university collaborates with hospitals and research institutions to tackle critical health issues.",
+        "research_works": [
+          {
+            "research_title": "Advancements in Medical Imaging",
+            "research_description": "This research focuses on the latest developments in medical imaging technologies, including MRI and CT scans.",
+            "research_paper_link": "https://www.medicaluniversity.edu/research_paper13"
+          },
+          {
+            "research_title": "Infectious Disease Control Strategies",
+            "research_description": "This study examines effective strategies to prevent and control infectious diseases, with a focus on global health challenges.",
+            "research_paper_link": "https://www.medicaluniversity.edu/research_paper14"
+          }
+        ],
+        "sports_categories": [
+          "Basketball",
+          "Football",
+          "Volleyball"
+        ]
+      },
+      {
+        "id": 8,
+        "college_image": "https://i.ibb.co/W6QYSLj/Notre-Dame-College-Dhaka-Pic-1024x469.jpg",
+        "college_name": "Notre Dame College Dhaka",
+        "admission_dates": "November 1 - November 30",
+        "admission_process": "Aspiring engineering students must take an engineering entrance exam and participate in a counseling session. Admission is based on the exam score and the candidate's preferred engineering discipline.",
+        "events": [
+          {
+            "event_name": "Engineering Expo",
+            "event_date": "November 10",
+            "event_description": "The Engineering Expo showcases innovative engineering projects, prototypes, and research undertaken by students and faculty."
+          },
+          {
+            "event_name": "Innovation Challenge",
+            "event_date": "November 20-22",
+            "event_description": "The Innovation Challenge is a competition where teams present solutions to real-world problems using engineering principles."
+          }
+        ],
+        "research_history": "Engineering Academy is known for its cutting-edge research and technological innovations. The academy collaborates with industries and research organizations to address societal challenges.",
+        "research_works": [
+          {
+            "research_title": "Advances in Green Building Technologies",
+            "research_description": "This research explores sustainable and energy-efficient building technologies for a greener future.",
+            "research_paper_link": "https://www.engineeringacademy.edu/research_paper15"
+          },
+          {
+            "research_title": "Future of Transportation: Electric Vehicles",
+            "research_description": "This study investigates the potential of electric vehicles as a sustainable alternative to conventional vehicles.",
+            "research_paper_link": "https://www.engineeringacademy.edu/research_paper16"
+          }
+        ],
+        "sports_categories": [
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ]
+      },
+      {
+        "id": 9,
+        "college_image": "https://i.ibb.co/3pstFyr/Milestone-College-Pic-1024x469.jpg",
+        "college_name": "Milestone College",
+        "admission_dates": "March 1 - March 31",
+        "admission_process": "Prospective language students may need to demonstrate language proficiency through tests or interviews, depending on the program. Passion for language and cultural understanding are considered.",
+        "events": [
+          {
+            "event_name": "Language Fair",
+            "event_date": "March 15",
+            "event_description": "The Language Fair celebrates linguistic diversity and cultural exchange, with presentations and performances in various languages."
+          },
+          {
+            "event_name": "Linguistics Workshop",
+            "event_date": "March 25",
+            "event_description": "The Linguistics Workshop delves into the study of language structure, evolution, and its significance in communication."
+          }
+        ],
+        "research_history": "Language Studies Institute is dedicated to the exploration and preservation of languages worldwide. The institute promotes linguistic research and the study of lesser-known languages.",
+        "research_works": [
+          {
+            "research_title": "Revitalization of Endangered Languages",
+            "research_description": "This research examines efforts to revive and preserve endangered languages and their cultural importance.",
+            "research_paper_link": "https://www.languageinstitute.edu/research_paper17"
+          },
+          {
+            "research_title": "Multilingualism in Education",
+            "research_description": "This study investigates the benefits and challenges of multilingual education in diverse cultural contexts.",
+            "research_paper_link": "https://www.languageinstitute.edu/research_paper18"
+          }
+        ],
+        "sports_categories": [
+          "Table Tennis",
+          "Badminton",
+          "Cricket"
+        ]
+      }
+    ]
+      
+      
