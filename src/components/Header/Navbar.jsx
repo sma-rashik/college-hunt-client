@@ -32,19 +32,19 @@ const Navbar = () => {
             </label>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
+              className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-black rounded-box w-52"
             >
               <li>
                 <Link to="/home">Home</Link>
               </li>
               <li>
-                <Link to="colleges">Colleges</Link>
+                <Link to="/colleges">Colleges</Link>
               </li>
               <li>
-                <Link to="admission">Admission</Link>
+                <Link to="/admission">Admission</Link>
               </li>
               <li>
-                <Link to="mycollage">My Collage</Link>
+                <Link to="/mycollage">My Collage</Link>
               </li>
             </ul>
           </div>
@@ -58,13 +58,13 @@ const Navbar = () => {
               <Link to="/home">Home</Link>
             </li>
             <li>
-              <Link to="colleges">Colleges</Link>
+              <Link to="/colleges">Colleges</Link>
             </li>
             <li>
-              <Link to="admission">Admission</Link>
+              <Link to="/admission">Admission</Link>
             </li>
             <li>
-              <Link to="mycollage">My Collage</Link>
+              <Link to="/mycollage">My Collage</Link>
             </li>
           </ul>
         </div>
